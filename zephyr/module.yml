@@ -1,0 +1,5 @@
+build:
+  cmake-ext: True
+  depends:
+    - rcutils
+    - rcl_interfaces
